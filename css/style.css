@@ -1,0 +1,558 @@
+body{
+    font-family: Roboto, sans-serif;
+    line-height: 24px;
+    font-size: 16px;
+    color:#163152;
+    background-color: #FDFDFF;
+}
+
+.main-header a{
+    font-size: 14px;
+    line-height: 18px;
+    text-decoration: none;
+    color:#163152;
+}
+
+.main-title h1{
+    font-size: 44px;
+    line-height: 60px;
+    font-style: italic;
+}
+
+main h2{
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.dates{
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.contacts{
+    line-height: 22px;
+}
+
+.contacts a{
+    color: #163152;
+    text-decoration: none;
+}
+
+.contacts h3{
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.links-list a{
+    font-size: 14px;
+    line-height: 16px;
+    color:#163152;
+    text-decoration: none;
+}
+
+.copyright{
+    font-size: 10px;
+    line-height: 12px;
+}
+
+footer h2{
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.header-logo img{
+    width: 64px;
+    height: 68px;
+}
+
+.main-title img{
+    width: 1170px;
+    height: 466px;
+}
+
+.team-recruting img{
+    width: 600px;
+    height: 262px;
+}
+
+.day-for-children img{
+    width: 600px;
+    height: 252px;
+}
+
+.contacts img{
+    width: 670px;
+    height: 351px;
+}
+
+.facebook img{
+    width: 9px;
+    height:16px;
+}
+
+.twitter img{
+    width: 18px;
+    height: 16px;
+}
+
+.instagram img{
+    width: 18px;
+    height: 18px;
+}
+
+.footer-logo img{
+    width: 100px;
+    height: 106px;
+}
+
+.shkiper{
+    width: 770px;
+    height: 301px;
+}
+
+.author-image{
+    width: 60px;
+    height: 60px;
+    margin-right: 15px;
+}
+
+.share-icon{
+    width: 26px;
+    height: 22px;
+}
+
+.news{
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.news h3{
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.news blockquote{
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 700;
+}
+
+.author-name{
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.author-name time{
+    color: #8693A4;
+}
+
+.author-name{
+    font-weight: 700;
+}
+
+.news h2{
+    text-align: center;
+}
+
+.teams-list-header{
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.image-caption figcaption{
+    color:#8693A4;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top:10px;
+    margin-bottom: 34px;
+}
+
+.account-link img{
+    width:16px;
+    height:18px;
+}
+
+body{
+    margin: 0;
+}
+
+.main-header{
+    display: flex;
+    margin: 0 auto;
+    padding:20px 55px;
+    width:1170px;
+    margin-bottom:40px;
+}
+
+.navigation-list{
+    margin:0;
+    padding:0;
+    list-style:none;
+    width:559px;
+    margin-left:471px;
+}
+
+.navigation-item{
+    width: 75px;
+}
+
+.account-link{
+    margin-left: 0 auto;
+    width: 36px;
+}
+
+main{
+    width:1170px;
+    margin:0 auto;  
+    padding: 0 55px;
+}
+
+.main-title{
+    margin-bottom: 120px;
+}
+
+.main-title h1{
+    margin:0 0 40px;
+    width: 488px;
+}
+
+.team-recruiting{
+    width: 1030px;
+    margin: 0 auto 100px;
+    display: flex;
+    gap: 30px;
+}
+
+.team-recruiting-div{
+    width: 400px;
+}
+
+.team-recruiting h1{
+    margin: 0;
+}
+
+.day-for-children{
+    width: 1030px;
+    margin: 0 auto 120px;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 30px;
+}
+
+.day-for-children-div{
+    width: 400px;
+}
+
+.day-for-children h1{
+    margin: 0;
+}
+
+.news{
+    width: 770px;
+    margin:0 auto 120px;  
+}
+
+.news h2{
+    margin: 0;
+    margin-bottom: 55px;
+}
+
+.image-caption{
+    margin: 0;
+}
+
+.contacts{
+    width: 1170px;
+    margin:0 auto 120px; 
+    display: flex;
+    flex-direction: row-reverse; 
+}
+
+.contacts img{
+    margin-right: auto;
+}
+
+.contacts-div{
+    width: 400px;
+}
+
+.contacts-div h2{
+    margin: 0 0 35px;
+}
+
+.main-footer-div{
+    width:1170px;
+    display:flex;
+    margin: 0 auto;
+    padding:0 55px;
+}
+
+.links-list{
+    margin: 0 0 0 125px;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 70px;
+}
+
+.links-list ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;  
+    width: 165px;
+    display: flex;
+    flex-direction: column; 
+}
+
+.links-list h2{
+    margin: 0 0 20px;
+    text-transform:uppercase;
+}
+
+.main-footer{
+    padding:60px 0;
+}
+
+.gallery{
+    width: 1170px;
+    margin: 0 auto 120px;
+}
+
+.photos{
+    display: flex;
+    gap:30px;
+}
+
+.small-photos{
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+
+.small-photos li{
+    margin: 0;
+    margin-bottom: 30px;
+}
+
+.small-photos li:last-child{
+    margin-bottom: 0;
+}
+
+.gallery h2{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-bottom: 55px;
+}
+
+.gallery-photo-1{
+    height: 690px;
+    margin-bottom: 0;
+}
+
+.navigation-list{
+    display: flex;
+    gap: 30px;
+    margin-right: 40px;
+}
+
+.main-header{
+    align-items: center;
+}
+
+.account-link{
+    width: 36px;
+    height: 36px;
+    border: 1px solid #00C6BD;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.small-photos a{
+    position: relative;
+    display: block;
+}
+
+.small-photos a::before{
+    content:"";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.small-photos img{
+    display: block;
+}
+
+.small-photos a.active-photo::before{
+    background-color: transparent;
+}
+
+.author-list{
+    display: flex;
+}
+.contact-list{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.contact-list li{
+    display: flex;
+    align-items: center;
+    gap:10px;
+}
+
+.socials-list{
+    display:flex;
+    gap:15px;
+}
+
+.socials-list li a{
+    width: 40px;
+    height: 40px;
+    border: 1px solid #00C6BD;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.teams-list{
+    margin: 15px 0 30px 19px;
+    padding: 0;
+}
+
+.teams-list-header{
+    margin:0;
+    margin-top: 24px;
+}
+
+.teams-list li{
+    margin-bottom: 8px;
+}
+
+.results-header{
+    margin-bottom: 27px;
+}
+
+.news-p1{
+    margin: 0;
+}
+
+.news-p2{
+    margin-top:12px;
+    margin-bottom: 24px;
+}
+
+.news blockquote{
+    margin-top:38px;
+    margin-bottom: 30px;
+}
+
+.news-congratulations{
+    margin-bottom: 40px;
+}
+
+.navigation-list a:hover, .account-link:hover, .share-link:hover{
+    opacity: 0.7;
+}
+
+.navigation-list a:active, .account-link:active, .share-link:active{
+    opacity: 0.5;
+}
+
+.share-link{
+    margin-left: auto;
+    align-self: center;
+}
+
+
+.yacht-rental{
+    width:1170px;
+}
+
+.yacht-rental p{
+    line-height: 24px;
+    font-size: 14px;
+}
+
+.yacht-rental li{
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.yacht-rental h3{
+    font-size: 20px;
+    line-height: 23px;
+    margin: 0;
+    margin-bottom: 18px;
+}
+
+.price p{
+    font-size: 18px;
+    line-height: 21px;
+    margin: 0;
+}
+
+.yacht-rental-title{
+    margin: 0;
+    margin-bottom: 55px;
+}
+
+.yacht-cards{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.yacht-card{
+    width: 310px;
+    padding: 30px;
+    box-shadow: 0px 4px 30px 0px rgba(22, 49, 82, 0.12);
+}
+
+.yacht-card img{
+    width: 310px;
+    margin-bottom: 16px;
+}
+
+.yacht-card:nth-child(4){
+    margin-left: 200px;
+}
+
+.yacht-name{
+    margin: 0;
+    margin-top: 21px;
+    margin-bottom: 18px;
+}
+
+.characteristics-list{  
+    list-style: disc;
+    margin: 15px 0 29px 18px;
+    padding: 0;
+}
+
+.price{
+    display: flex;
+    justify-content: space-between;
+}
+
+.characteristic{
+    margin-bottom: 4px;
+}
+
+.characteristic:last-child{
+    margin-bottom: 0;
+}
+
+
+
